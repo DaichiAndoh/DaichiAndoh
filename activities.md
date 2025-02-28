@@ -1,5 +1,11 @@
 # Activities
 
+## 2025
+
+| Date | Event |
+| --- | --- |
+| 2025-02-28 | [エムオーテックスの現場](https://devlove-kansai.doorkeeper.jp/events/181655/) |
+
 ## 2024
 
 | Date | Event |
