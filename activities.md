@@ -4,6 +4,11 @@
 
 | Date | Event |
 | --- | --- |
+| 2025-03-12 | [Engineer Panel vol.1 〜APIプロトコルの違いを学ぼう〜](https://blastengine.connpass.com/event/346433/) |
+| 2025-03-12 | [【スタートアップ3社に聞いてみた】成長する開発組織が向き合う課題と挑戦](https://hacobu.connpass.com/event/345920/) |
+| 2025-03-07 | [品質改善に終わりはない：エンジニアのためのベストプラクティス](https://increments.connpass.com/event/344175/) |
+| 2025-03-06 | [Tidy First? ―個人で実践する経験主義的ソフトウェア設計 - FL#84](https://forkwell.connpass.com/event/346436/) |
+| 2025-03-06 | [コードレビューどうしてる？ 品質向上と効率化の現場Tips共有会](https://findy.connpass.com/event/345102/) |
 | 2025-02-28 | [エムオーテックスの現場](https://devlove-kansai.doorkeeper.jp/events/181655/) |
 
 ## 2024
