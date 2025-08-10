@@ -4,6 +4,14 @@
 
 | Date | Event |
 | --- | --- |
+| 2025-05-14 | [【技術選定を突き詰める】Online Conferenc​​e 2025](https://findy.connpass.com/event/349580/) |
+| 2025-04-26 | [【27卒向け】エンジニアサマーインターン選考を突破するためのシステム設計入門](https://recursion.connpass.com/event/352540/) |
+| 2025-04-24 | [丁度ええ! ロギング](https://architect-club.connpass.com/event/352000/) |
+| 2025-04-23,24,25 | [Qiita Conference 2025](https://qiita.com/official-campaigns/conference/2025) |
+| 2025-04-15 | [ドメイン駆動設計のススメ ~ ドメイン駆動設計とクリーンアーキテクチャの関係 ~](https://aws-dev-live-show.connpass.com/event/349914/) |
+| 2025-04-09 | [Re:TechTalk #02 これだけは知っておきたいクラス設計の基礎知識](https://hireroo.connpass.com/event/348418/) |
+| 2025-03-26 | [AI駆動開発勉強会 臨時回【Devin Meetup Japan #1】](https://aid.connpass.com/event/347052/) |
+| 2025-03-17 | [【Next.js特集】フロントエンド技術選定の裏側と直面する技術的課題とは？](https://findy.connpass.com/event/345126/) |
 | 2025-03-12 | [Engineer Panel vol.1 〜APIプロトコルの違いを学ぼう〜](https://blastengine.connpass.com/event/346433/) |
 | 2025-03-12 | [【スタートアップ3社に聞いてみた】成長する開発組織が向き合う課題と挑戦](https://hacobu.connpass.com/event/345920/) |
 | 2025-03-07 | [品質改善に終わりはない：エンジニアのためのベストプラクティス](https://increments.connpass.com/event/344175/) |
