@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am currently developing web applications (SaaS) at a company in Kobe, Japan, and working across various areas, including frontend, backend, and infrastructure. While I handle a wide range of tasks, I am particularly passionate about backend development.
+I am currently working as a backend engineer at a company based in Tokyo, developing SaaS products.
 
 <p align="left"> 
   <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiAndoh&layout=compact" />
